@@ -13,14 +13,14 @@ const inter = Inter({ subsets: ["latin"] });
 const baseUrlMeta = `${new URL("https://portofoliovynnoxaloraa.loveyanztoya.xyz/")}`;
 export const metadata = {
   metadataBase: new URL("https://portofoliovynnoxaloraa.loveyanztoya.xyz/"),
-  title: "Vynnnoxx Aloraaa Devア | Portfolio",
+  title: "Manzrowr | Portfolio",
   description:
-    "Vynnnoxx Aloraaa Devア is a web developer with 2 years of experience.",
-  author: "Vynnnoxx Aloraaa Devア",
+    "Manz is a web developer with 2 years of experience.",
+  author: "Manzrowr",
   subject: "Web Development",
-  copyright: "© Vynnnoxx Aloraaa Devア",
+  copyright: "© Manzrowr",
   keywords: [
-    "Vynnnoxx Aloraaa Devア",
+    "Manzrowr",
     "Next.js",
     "React",
     "JavaScript",
@@ -41,21 +41,21 @@ export const metadata = {
     "joki murah",
   ],
   generator: "Next.js",
-  applicationName: "Vynnnoxx Aloraaa Devア | Portfolio",
+  applicationName: "Manzrowr | Portfolio",
   referrer: "origin-when-cross-origin",
   colorScheme: "dark",
-  creator: "Vynnnoxx Aloraaa Devア",
-  publisher: "Vynnnoxx Aloraaa Devア",
+  creator: "Manzrowrア",
+  publisher: "Manzrowr",
   language: "id",
   geo: {
     country: "ID",
-    placename: "Yogyakarta",
+    placename: "Demak",
   },
   openGraph: {
     images: [
       {
         url: `${baseUrlMeta}images/profile_2.jpg`,
-        alt: "Vynnnoxx Aloraaa Devア",
+        alt: "Manzrowr",
       },
       {
         url: `${baseUrlMeta}images/project/cekresi/1.png`,
@@ -67,15 +67,15 @@ export const metadata = {
       },
     ],
     description:
-      "Vynnnoxx Aloraaa Devア is a web developer with 2 years of experience.",
-    author: "Vynnnoxx Aloraaa Devア",
+      "Manz is a web developer with 2 years of experience.",
+    author: "Manzrowr",
   },
   basic: {
-    title: "Vynnnoxx Aloraaa Devア - Fullstack Engineer",
+    title: "Manzrowr - Fullstack Engineer",
     type: "website",
     image: {
       url: `${baseUrlMeta}images/profile_2.jpg`,
-      alt: "Vynnnoxx Aloraaa Devア",
+      alt: "Manzrowr",
     },
   },
 };
