@@ -179,7 +179,7 @@ const ProjectSection: React.FC = () => {
               </div>
               <div className="mb-4">
                 <h3 className="text-lg font-semibold mb-2 dark:text-white">
-                  Features I Worked On:
+                  Kelebihan🗿:
                 </h3>
                 <ul className="list-disc list-inside">
                   {selectedProject.features.map((feature, index) => (
@@ -207,7 +207,7 @@ const ProjectSection: React.FC = () => {
                 ))}
               </div>
               <h4 className="text-lg font-semibold mb-2 dark:text-white">
-                Language and Tools
+                Akun Beliau (siapa tau mw chat🗿)
               </h4>
               <div className="flex justify-between items-end">
                 <div className="flex space-x-2">
