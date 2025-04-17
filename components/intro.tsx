@@ -65,7 +65,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello everyone</span> This website is my portfolio, which I created myself using programming languages. {" "}
+        <span className="font-bold">Hello everyone</span> This website is my portofolio, which I created myself using programming languages. {" "}
         <span className="font-bold">Java Script and Html Css Tailwind Vue Next Js Java</span> for
         developing a website and Script Developer.
         {/* I enjoy building <span className="italic">sites & apps</span>.  */}
