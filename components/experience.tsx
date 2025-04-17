@@ -18,7 +18,7 @@ export default function Experience() {
   return (
     <div className="mb-28 sm:mb-40">
       <section id="experience" ref={ref} className="scroll-mt-28">
-        <SectionHeading>🛸 my process</SectionHeading>
+        <SectionHeading>🛸 My ability</SectionHeading>
       </section>
       <VerticalTimeline lineColor="">
         {experiencesData.map((item, index) => (
