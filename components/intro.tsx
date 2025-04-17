@@ -92,7 +92,7 @@ export default function Intro() {
           href="/cv/resume.pdf"
           download
         >
-          Download Code{" "}
+          Download Cv{" "}
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
         </a>
       </motion.div>
