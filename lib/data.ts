@@ -78,7 +78,6 @@ export const projectsData = [
     ],
     image: "images/project/cekresi/furina.png",
     tech: [
-      "/images/icon/javascript.svg",
     ],
     demoUrl: null,
     githubUrl: null,
@@ -96,7 +95,6 @@ export const projectsData = [
     ],
     image: "images/project/ikanme/lexxius.png",
     tech: [
-      "/images/icon/javascript.svg",
     ],
     demoUrl: null,
     githubUrl: null,
@@ -114,7 +112,6 @@ export const projectsData = [
     ],
     image: "images/project/mpl/millicent.png",
     tech: [
-      "/images/icon/javascript.svg",
     ],
     demoUrl: null,
     githubUrl: null,
@@ -132,7 +129,6 @@ export const projectsData = [
     ],
     image: "images/project/siakad/colab.png",
     tech: [
-      "/images/icon/javascript.svg",
     ],
     demoUrl: null,
     githubUrl: null,
