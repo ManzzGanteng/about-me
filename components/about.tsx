@@ -23,7 +23,7 @@ export default function About() {
         <BurstBload />
       </div>
       <p>
-        Hello!, My Name is Manzrowr, But You Can Call Me Manz. I Come From Demak City, Central Java, Indonesia. I Am One Of The Self-Taught JavaScript Learners, I'm Interested In JavaScript Because It Doesn't Look Too Complex And I Think JavaScript Is Not Too Difficult If There Is A Will To Learn. My Message For You Guys Keep The Spirit Up!
+        Hello!, My Name is Muhammad Azam Naqib, But You Can Call Me Naqib😎. I Come From Demak City, Central Java, Indonesia. I Am One Of The Self-Taught JavaScript Learners, I'm Interested In JavaScript Because It Doesn't Look Too Complex And I Think JavaScript Is Not Too Difficult If There Is A Will To Learn. My Message For You Guys Keep The Spirit Up!
       </p>
     </motion.section>
   );
