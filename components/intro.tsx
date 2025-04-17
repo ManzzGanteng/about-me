@@ -58,7 +58,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Manzrowr.</span>
+        <span className="font-bold">Muhammad Azam Naqib.</span>
       </motion.h1>
       <motion.h4
         className="mb-10 px-4 text-xl font-medium !leading-[1.5] sm:text-2xl"
