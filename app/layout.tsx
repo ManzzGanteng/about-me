@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 const baseUrlMeta = `${new URL("https://portofoliovynnoxaloraa.loveyanztoya.xyz/")}`;
 export const metadata = {
   metadataBase: new URL("https://portofoliovynnoxaloraa.loveyanztoya.xyz/"),
-  title: "Manzrowr | Portfolio",
+  title: "Manzrowr | Portofolio",
   description:
     "Manz is a web developer with 2 years of experience.",
   author: "Manzrowr",
