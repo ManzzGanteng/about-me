@@ -31,7 +31,7 @@ export default function Intro() {
           >
             <Image
               src="/images/profile_2.jpg"
-              alt="𒐬 | な 𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 <𝗩𝘅>"
+              alt="Manzrowr"
               width="192"
               height="192"
               quality="95"
@@ -58,15 +58,16 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">𒐬 | な 𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 <𝗩𝘅>.</span>
+        <span className="font-bold">Vynnnoxx Aloraaa Devア.</span>
       </motion.h1>
       <motion.h4
         className="mb-10 px-4 text-xl font-medium !leading-[1.5] sm:text-2xl"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Halo ges🗿.</span> ini website portofolio gweh ya ges, hasil gabut mwehehe🗿. website ini dibuat menggunakan bahasa{" "}
-        <span className="font-bold">Java Script Html Css Tailwind Vue Next Js Java</span>.
+        <span className="font-bold">Hello everyone</span> This website is my portfolio, which I created myself using programming languages. {" "}
+        <span className="font-bold">Java Script and Html Css Tailwind Vue Next Js Java</span> for
+        developing a website and Script Developer.
         {/* I enjoy building <span className="italic">sites & apps</span>.  */}
         {/* My focus is
         <span className="underline"> Laravel and React (Next.js)</span>. */}
@@ -92,7 +93,7 @@ export default function Intro() {
           href="/cv/resume.pdf"
           download
         >
-          Download Cv{" "}
+          Download CV{" "}
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
         </a>
       </motion.div>
@@ -114,7 +115,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="mailto:alokkopling123@gmail.com"
+          href="mailto: alokkopling123@gmail.com"
           target="_blank"
         >
           <RiMailSendLine />
