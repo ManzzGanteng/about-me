@@ -99,7 +99,7 @@ export const projectsData = [
     demoUrl: null,
     githubUrl: null,
     features: [
-      "beliau sangat multifungsi, minus penyepong ryo😹☝🏻",
+      "beliau sangat multifungsi, minus beliau suka ryo (animek)😹☝🏻",
     ],
     languages: ["@ketek_unta"],
   },
